@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://www.rtd-denver.com/gtfs-developer-guide.shtml
 common:
+  - type: DomainSecurity
+    url: security/transport-for-denver-us-domain-security.yml
   - type: Website
     url: http://www.rtd-denver.com/gtfs-developer-guide.shtml
   - type: PublicAPIsListing
