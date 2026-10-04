@@ -39,7 +39,6 @@ apis:
   - name: Transport for Denver, US
     description: "RTD"
     humanURL: http://www.rtd-denver.com/gtfs-developer-guide.shtml
-    baseURL: http://www.rtd-denver.com/gtfs-developer-guide.shtml
     tags:
       - Transportation
     properties:
